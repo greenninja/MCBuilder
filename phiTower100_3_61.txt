@@ -1,0 +1,20 @@
+/fill ~4 61 ~4 ~-4.0 184 ~-4.0 obsidian 0 hollow
+/fill ~3 61 ~3 ~-3.0 183 ~-3.0 air
+/fill ~5 61 ~5 ~-5.0 138 ~-5.0 obsidian 0 hollow
+/fill ~4 61 ~4 ~-4.0 137 ~-4.0 air
+/fill ~6 61 ~6 ~-6.0 109 ~-6.0 obsidian 0 hollow
+/fill ~5 61 ~5 ~-5.0 108 ~-5.0 air
+/fill ~7 61 ~7 ~-7.0 91 ~-7.0 obsidian 0 hollow
+/fill ~6 61 ~6 ~-6.0 90 ~-6.0 air
+/fill ~8 61 ~8 ~-8.0 80 ~-8.0 obsidian 0 hollow
+/fill ~7 61 ~7 ~-7.0 79 ~-7.0 air
+/fill ~9 61 ~9 ~-9.0 73 ~-9.0 obsidian 0 hollow
+/fill ~8 61 ~8 ~-8.0 72 ~-8.0 air
+/fill ~10 61 ~10 ~-10.0 69 ~-10.0 obsidian 0 hollow
+/fill ~9 61 ~9 ~-9.0 68 ~-9.0 air
+/fill ~11 61 ~11 ~-11.0 66 ~-11.0 obsidian 0 hollow
+/fill ~10 61 ~10 ~-10.0 65 ~-10.0 air
+/fill ~12 61 ~12 ~-12.0 64 ~-12.0 obsidian 0 hollow
+/fill ~11 61 ~11 ~-11.0 63 ~-11.0 air
+/fill ~13 61 ~13 ~-13.0 63 ~-13.0 obsidian 0 hollow
+/fill ~12 61 ~12 ~-12.0 62 ~-12.0 air
