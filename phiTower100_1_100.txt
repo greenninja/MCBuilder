@@ -1,0 +1,80 @@
+/fill ~2 100 ~2 ~-2 223 ~-2 ice 0 hollow
+/fill ~1 100 ~1 ~-1 222 ~-1 air
+/fill ~3 100 ~3 ~-3 177 ~-3 ice 0 hollow
+/fill ~2 100 ~2 ~-2 176 ~-2 air
+/fill ~4 100 ~4 ~-4 148 ~-4 ice 0 hollow
+/fill ~3 100 ~3 ~-3 147 ~-3 air
+/fill ~5 100 ~5 ~-5 130 ~-5 ice 0 hollow
+/fill ~4 100 ~4 ~-4 129 ~-4 air
+/fill ~6 100 ~6 ~-6 119 ~-6 ice 0 hollow
+/fill ~5 100 ~5 ~-5 118 ~-5 air
+/fill ~7 100 ~7 ~-7 112 ~-7 ice 0 hollow
+/fill ~6 100 ~6 ~-6 111 ~-6 air
+/fill ~8 100 ~8 ~-8 108 ~-8 ice 0 hollow
+/fill ~7 100 ~7 ~-7 107 ~-7 air
+/fill ~9 100 ~9 ~-9 105 ~-9 ice 0 hollow
+/fill ~8 100 ~8 ~-8 104 ~-8 air
+/fill ~10 100 ~10 ~-10 103 ~-10 ice 0 hollow
+/fill ~9 100 ~9 ~-9 102 ~-9 air
+/fill ~11 100 ~11 ~-11 102 ~-11 ice 0 hollow
+/fill ~10 100 ~10 ~-10 101 ~-10 air
+/fill ~2 100 ~2 ~-2 223 ~-2 ice 0 hollow
+/fill ~1 100 ~1 ~-1 222 ~-1 air
+/fill ~3 100 ~3 ~-3 177 ~-3 ice 0 hollow
+/fill ~2 100 ~2 ~-2 176 ~-2 air
+/fill ~4 100 ~4 ~-4 148 ~-4 ice 0 hollow
+/fill ~3 100 ~3 ~-3 147 ~-3 air
+/fill ~5 100 ~5 ~-5 130 ~-5 ice 0 hollow
+/fill ~4 100 ~4 ~-4 129 ~-4 air
+/fill ~6 100 ~6 ~-6 119 ~-6 ice 0 hollow
+/fill ~5 100 ~5 ~-5 118 ~-5 air
+/fill ~7 100 ~7 ~-7 112 ~-7 ice 0 hollow
+/fill ~6 100 ~6 ~-6 111 ~-6 air
+/fill ~8 100 ~8 ~-8 108 ~-8 ice 0 hollow
+/fill ~7 100 ~7 ~-7 107 ~-7 air
+/fill ~9 100 ~9 ~-9 105 ~-9 ice 0 hollow
+/fill ~8 100 ~8 ~-8 104 ~-8 air
+/fill ~10 100 ~10 ~-10 103 ~-10 ice 0 hollow
+/fill ~9 100 ~9 ~-9 102 ~-9 air
+/fill ~11 100 ~11 ~-11 102 ~-11 ice 0 hollow
+/fill ~10 100 ~10 ~-10 101 ~-10 air
+/fill ~2 100 ~2 ~-2 223 ~-2 ice 0 hollow
+/fill ~1 100 ~1 ~-1 222 ~-1 air
+/fill ~3 100 ~3 ~-3 177 ~-3 ice 0 hollow
+/fill ~2 100 ~2 ~-2 176 ~-2 air
+/fill ~4 100 ~4 ~-4 148 ~-4 ice 0 hollow
+/fill ~3 100 ~3 ~-3 147 ~-3 air
+/fill ~5 100 ~5 ~-5 130 ~-5 ice 0 hollow
+/fill ~4 100 ~4 ~-4 129 ~-4 air
+/fill ~6 100 ~6 ~-6 119 ~-6 ice 0 hollow
+/fill ~5 100 ~5 ~-5 118 ~-5 air
+/fill ~7 100 ~7 ~-7 112 ~-7 ice 0 hollow
+/fill ~6 100 ~6 ~-6 111 ~-6 air
+/fill ~8 100 ~8 ~-8 108 ~-8 ice 0 hollow
+/fill ~7 100 ~7 ~-7 107 ~-7 air
+/fill ~9 100 ~9 ~-9 105 ~-9 ice 0 hollow
+/fill ~8 100 ~8 ~-8 104 ~-8 air
+/fill ~10 100 ~10 ~-10 103 ~-10 ice 0 hollow
+/fill ~9 100 ~9 ~-9 102 ~-9 air
+/fill ~11 100 ~11 ~-11 102 ~-11 ice 0 hollow
+/fill ~10 100 ~10 ~-10 101 ~-10 air
+/fill 1154 100 -6 1150 223 -10 ice 0 hollow
+/fill 1153 100 -7 1151 222 -9 air
+/fill 1155 100 -5 1149 177 -11 ice 0 hollow
+/fill 1154 100 -6 1150 176 -10 air
+/fill 1156 100 -4 1148 148 -12 ice 0 hollow
+/fill 1155 100 -5 1149 147 -11 air
+/fill 1157 100 -3 1147 130 -13 ice 0 hollow
+/fill 1156 100 -4 1148 129 -12 air
+/fill 1158 100 -2 1146 119 -14 ice 0 hollow
+/fill 1157 100 -3 1147 118 -13 air
+/fill 1159 100 -1 1145 112 -15 ice 0 hollow
+/fill 1158 100 -2 1146 111 -14 air
+/fill 1160 100 0 1144 108 -16 ice 0 hollow
+/fill 1159 100 -1 1145 107 -15 air
+/fill 1161 100 1 1143 105 -17 ice 0 hollow
+/fill 1160 100 0 1144 104 -16 air
+/fill 1162 100 2 1142 103 -18 ice 0 hollow
+/fill 1161 100 1 1143 102 -17 air
+/fill 1163 100 3 1141 102 -19 ice 0 hollow
+/fill 1162 100 2 1142 101 -18 air
